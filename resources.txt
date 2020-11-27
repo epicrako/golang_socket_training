@@ -1,0 +1,38 @@
+This is a list of all the resources used during the project:
+
+golang Language Basics
+gobyexample.com
+
+Broadcast Message ip address (not used in the end):
+https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#:~:text=The%20DHCP%20client%20broadcasts%20a,broadcast%20address%20(directed%20broadcast).
+
+Networking Library
+https://golang.org/pkg/net/
+
+Conn Objects
+https://golang.org/pkg/net/?m=all#Conn:~:text=type%20Conn,-Conn
+
+Type Assertions in golang
+https://tour.golang.org/methods/15#:~:text=A%20type%20assertion%20provides%20access%20to%20an%20interface%20value%27s%20underlying%20concrete%20value.&text=This%20statement%20asserts%20that%20the,statement%20will%20trigger%20a%20panic.
+
+Socket Programming
+https://golangr.com/socket-server/
+http://golangr.com/socket-client/
+
+Packages:
+https://www.youtube.com/watch?v=sf7f4QGkwfE
+
+Go Path:
+https://www.youtube.com/watch?v=QgHkCGkSoy4
+
+using modules:
+https://brokencode.io/how-to-use-local-go-modules-with-golang-with-examples/
+
+Sending/Receiving structs over TCP
+https://stackoverflow.com/questions/11202058/unable-to-send-gob-data-over-tcp-in-go-programming
+
+String Formatting
+https://golang.org/pkg/fmt/
+
+Concurrency Patterns in GO
+https://www.youtube.com/watch?v=f6kdp27TYZs
